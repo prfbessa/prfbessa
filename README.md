@@ -102,11 +102,20 @@ DevOps_Engineer:
 
 ## 🔥 Projetos em Destaque
 
-### 🚀 Automação para cadastro no AD do powerbi
+### 🚀 Automação para cadastro no AD e envio de emails para o powerbi
 - **Descrição**: Pipeline completo em python 
+- **Tecnologias**: `python` `Google cloud` `Docker` `Gmail`
+- **Status**: 🟢 Ativo
+
+### 🚀 Automação para Notificações PE.GOV.BR dos Municípios do Estado de Pernambuco
+- **Descrição**: Pipeline completo em python para enviar as notificações de incidentes do registroBR para os Municípios de Pernambuco
 - **Tecnologias**: `python` `Google cloud` `Docker` 
 - **Status**: 🟢 Ativo
 
+### 🚀 Automação e ETL dos dados do citsmart ITSM para Dashboards no lookerstudio
+- **Descrição**: Pipeline completo em python para ETL no postgresql do citsmart
+- **Tecnologias**: `python` `Google cloud` `Docker` `Postgresql` `citsmart`
+- **Status**: 🟢 Ativo
 
 ---
 
@@ -121,7 +130,7 @@ DevOps_Engineer:
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/petroniobessa" target="_blank">
+  <a href="https://linkedin.com/in/petronio-bessa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:petroniobessa@gmail.com" target="_blank">
